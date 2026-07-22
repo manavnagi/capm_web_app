@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 A fully interactive financial web application deployed via Streamlit that calculates the expected return of publicly traded assets utilizing the Capital Asset Pricing Model (CAPM). The tool features dynamic dual-market support, allowing users to benchmark equities against both US (S&P 500) and Indian (Nifty 50) markets.
 
-**Live Application:** [[Insert Streamlit Link Here](https://capmwebapp-manavnagi.streamlit.app/)]
+**Live Application:** [Added live Streamlit link](https://capmwebapp-manavnagi.streamlit.app/)
 
 ## 🛠️ Technology Stack
 *   **Frontend & Hosting:** Python (Streamlit)
